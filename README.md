@@ -1,4 +1,6 @@
-## Hi there 👋
+Olá, seja bem-vindo ao meu perfil.
+
+Meu nome é **Gabriel Oliveira Brito**, sou desenvolvedor desde os 7 anos por pura vontade de conhecer mais a fundo como as coisas funcionam. Desde então venho desenvolvendo projetos e comecei a utilizar principalmente *C#* para meus projetos, e hoje estou em busca de melhorar meu portifólio com mais projetos além de aprender novas linguagens e tecnologias.
 
 <!--
 **gabrieloliveirabrito/gabrieloliveirabrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
