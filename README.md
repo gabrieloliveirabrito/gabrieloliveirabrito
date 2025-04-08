@@ -39,7 +39,7 @@
 
 ## 🐍 Snake Game das Contribuições
 
-![Snake animation](https://github.com/gabrieloliveirabrito/gabrieloliveirabrito/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrieloliveirabrito/gabrieloliveirabrito/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
