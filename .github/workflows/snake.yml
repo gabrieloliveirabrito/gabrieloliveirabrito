@@ -1,0 +1,31 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar Snake Game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: gabrieloliveirabrito
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit do SVG gerado
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "🐍 Atualiza o Snake SVG"
+          add: "dist/*.svg"
+
+      - name: Push para o branch principal
+        run: git push
