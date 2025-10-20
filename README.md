@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor de Jogos & Web** | C# | Unity3D | ASP.NET | Blazor | NextJS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieloliveirabrito/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrieloliveirabrito@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrie.oliveira.brito@outlook.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrieloliveirabrito)
 
 💻 Programo desde os 7 anos de idade, iniciando com **PHP e Delphi**, e ao longo dos anos me especializei em **C#**, **Unity3D**, desenvolvimento web e **servidores de jogos**. Atualmente, sou **Desenvolvedor na 7TEEN Games**, onde dou manutenção em código legado de servidores e desenvolvo aplicações web modernas com **PHP/Laravel, NextJS e Blazor**.
