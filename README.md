@@ -41,16 +41,6 @@
 
 ---
 
-## 📈 Estatísticas no GitHub
-
-![Gabriel's GitHub stats](https://github-readme-stats-git-main-gabrieloliveirabritos-projects.vercel.app/api?username=gabrieloliveirabrito&include_all_commits=true&rank_icon=github&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats-git-main-gabrieloliveirabritos-projects.vercel.app/api/top-langs/?username=gabrieloliveirabrito&langs_count=8&layout=compact&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrieloliveirabrito&theme=dark&border_radius=5)](https://git.io/streak-stats)
-
----
-
 ## 🐍 Snake Game das Contribuições
 
 ![Snake animation](https://github.com/gabrieloliveirabrito/gabrieloliveirabrito/blob/main/dist/github-contribution-grid-snake-dark.svg)
